@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Homo dionaea carnivorus</title>
+  <style>
+  /* insert CSS here */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;  /* Corrected the missing colon */
+  letter-spacing: 1.25px;
+  display: flex;
+  justify-content: center; /* Centers items horizontally */
+  align-items: center;     /* Centers items vertically */
+  height: 100vh;           /* Full viewport height */
+  margin: 0;               /* Remove default margin */
+  }
+
+  
+  h1 {
+  font-family: Times New Roman, serif;
+  font-weight: lighter;
+  font-size: 54px;
+  letter-spacing: -2.4px;
+  line-height: 2px;
+  text-align: center;
+  }
+  
+  .desc {
+  width: 65%;
+  color: #292929;
+  text-align: justify;
+  border: none;
+  cursor: default;
+  }
+  
+  .copyright {
+  font-family: Verdana;
+  font-size: 9px; 
+  border: none;
+  cursor: help;
+  }
+  
+  .vampire {
+  transition: 0.2s ease-in-out;
+  }
+  
+  .vampire:hover {
+  color: white;  
+  text-shadow: 0 0 5px black;
+  }
+  
+  a {
+  color: #0000FF;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  }
+  
+  a:hover {
+  color: #FFF;  
+  text-shadow: 0 0 3.5px #0000FF;
+  cursor: help;
+  }
+
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;  /* Slightly smaller font size for mobile */
+  }
+
+  h1 {
+    font-size: 32px;  /* Smaller heading size for mobile */
+  }
+
+  .desc {
+    width: 90%;  /* Increase width of description text on mobile */
+  }
+}
+
+  
+  </style>
+</head>
+<body>
+  
+  <div class="desc">
+  <h1>Homo dionaea carnivorus</h1><br>
+  <i>Homo dionaea carnivorus</i> (HDC) is one of the non-sapiens species listed by the Sapiens Non-sapiens United. HDC is acknowledged by SNSU as one of the non-sapiens categories that actively integrate to the normative human life through various lifestyle alteration efforts. <sup>[<a href="https://doi.org/10.1007/978-3-031-18350-8" target="_blank">1</a>]</sup>
+  They are distinct from the common human species due to their carnivorous nature—in which to a degree, their survival will rely on the eventual consumption of erythrocytes or red blood cells, with a striking preference for those produced by the common human species. Records show that HDC individuals were first discovered in early 17th century, but it wasn't until 1918 that an HDC representative proposed an initiative for their integration to normative society. HDC's integration to society is done mainly through stritct dietary regulations, in exchange for worldwide transformative safeguarding of the species.
+  <br><br>
+  HDC is also known by its problematic past-time naming, <i class="vampire">vampire</i>.<sup>[<a href="">2</a>]</sup> The use of this terminology is now considered to be in bad faith and even offensive towards HDC individuals' efforts to fully integrate with the normative human lifestyle.
+  <br><br><br><br><br><br>
+  <center><a class="copyright" href="https://x.com/meorijane" title="@meorijane">&copy; 2025 Sapiens Non-Sapiens United. All rights reserved.</a></center>
+  </div>
+
+  <!-- Insert Homepage Here -->
+  
+  <script>
+  //insert JS here
+  </script>
+
+</body>
+</html>
